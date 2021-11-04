@@ -1,6 +1,7 @@
 - 条件执行
 - 使用strftime()函数
 - 变量
+
 ```
 let currentHour = strftime("%H")
 echo "currentHour is " currentHour
